@@ -1,0 +1,15 @@
+.rule-pic {
+  height: 500px;
+}
+.modal-container {
+  background-color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.close-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
